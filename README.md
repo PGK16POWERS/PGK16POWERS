@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PGK16POWERS
 - 👀 I love Programming
-- 🌱 I’m currently learning Express
+- 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on Javascript related Projects
 - 📫 How to reach me programmerkartier@gmail.com
 
