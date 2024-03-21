@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgk16powers&show_icons=true&locale=en" alt="pgk16powers" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgk16powers&theme=dark" alt="pgk16powers" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgk16powers&theme=default" alt="pgk16powers" /></p>
