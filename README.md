@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgk16powers&label=Profile%20views&color=0e75b6&style=flat" alt="pgk16powers" /> </p>
 
-- 📫 How to reach me **head@marjellamarketingmedia.net**
+- 📫 How to reach me **programmerkartier@gmail.com**
 
 - ⚡ Fun fact **I Love War History**
 
